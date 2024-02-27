@@ -1,0 +1,30 @@
+h3 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+ h3 {font-size: 250%;
+color: rgb(160, 25, 238);
+border-style: solid;
+border-color: rgb(36, 204, 204);
+border-width: 3px;
+}
+
+.parte1 {border-style: solid;
+    border-color: rgb(20, 179, 60);
+    border-width: 3px;
+font-size: 200%;}
+.parte1 {
+      font-family: "Caveat", cursive;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+    }
+    .parte1 {margin-left: 20%;
+    margin-right: 20%;}
+    h2 {margin-left: 20%;
+        margin-right: 20%;}
+        h3 {margin-left: 20%;
+            margin-right: 20%;}
+            
